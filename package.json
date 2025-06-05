@@ -1,0 +1,13 @@
+{
+  "name": "tenants-embedding-example",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "scripts": {
+    "start": "yarn && node server.js"
+  }
+}
